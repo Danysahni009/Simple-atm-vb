@@ -1,2 +1,2 @@
 # Simple-atm-vb
-A ATM Design on Visual Basic
+A ATM Design on Visual Basic .NET
